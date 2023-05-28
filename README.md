@@ -8,7 +8,7 @@ These two scripts are designed to convert Mathematica Notebook to the ``.wlnb`` 
  - Place the two programs in a folder on PATH.
  - Run ``nb2wlnb /path/to/notebook.nb``
 
-In some cases, the formatting of the orinigal notebook cannot be properly translated. In that case, you can try the following:
+In some cases, the formatting of the original notebook cannot be properly translated. In that case, you can try the following:
 
  - Open the notebook using Mathematica. This requires a valid license.
  - Save the notebook as a ``.m`` file.
