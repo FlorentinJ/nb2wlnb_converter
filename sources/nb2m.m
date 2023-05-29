@@ -21,7 +21,9 @@ types = {
 finalSubs = {
    "\r" -> "",
    FromCharacterCode[62371] -> "\n",
-   FromCharacterCode[62754] -> "->"
+   FromCharacterCode[62754] -> "->",
+   FromCharacterCode[62751] -> ":>",
+   FromCharacterCode[62513] -> "=="
    };
 
 cells = NotebookImport[file,
